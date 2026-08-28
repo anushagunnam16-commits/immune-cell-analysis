@@ -695,7 +695,7 @@ The Streamlit dashboard provides an interactive interface for reviewing the resu
 
 ## Dashboard Link
 
-**Public dashboard:** TO BE ADDED AFTER DEPLOYMENT-- pending 11
+Public dashboard: https://immune-cell-analysis-anu.streamlit.app/
 
 The dashboard can also be run locally or in GitHub Codespaces using:
 
