@@ -580,6 +580,9 @@ Therefore, the requested answer is:
 
 **10206.15**
 
+### Quintazide Note
+
+The assignment asks to mention quintazide. Quintazide is not present in the provided dataset, so no quintazide-specific analysis or result is reported. The pipeline only reports results supported by the supplied data.
 ---
 
 # Code Structure and Design Decisions
